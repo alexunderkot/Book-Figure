@@ -1,0 +1,21 @@
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.AssemblyInfo.cs
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Class Book.exe
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Class Book.deps.json
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Class Book.runtimeconfig.json
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Class Book.dll
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Class Book.pdb
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.dll
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\refint\Class Book.dll
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.pdb
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.genruntimeconfig.cache
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\ref\Class Book.dll
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Figure.deps.json
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Figure.runtimeconfig.json
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Figure.exe
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Figure.dll
+C:\Users\sasha\source\repos\Class Book\Class Book\bin\Debug\net8.0\Figure.pdb
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\Class Book\Class Book\obj\Debug\net8.0\Class Book.csproj.Up2Date
